@@ -1,0 +1,9 @@
+In this analysis, we are looking into treatments from a pharmaceutical company. 249 mice were identifed with squamouse cell carcinoma (SCC) and have received treatment with various drug regimens. The treatments were observed and compare to the drug of interest, Capomulin, against other treaments.
+
+Based my analysis, the findings are as follow:
+
+Compare to the rest of the drugs, only Ramicane's treatment shows similar Tumor Volume (mean, median, variance, std. dev., std err) as Capomulin.
+
+According to the graph, "Capomulin Treatment of Mouse I509", it shows that the tumor volume increased over time; however, the tumore volume decreased after 20 days of treatment.
+
+The Correlation Coefficient between weight of the mice and the tumor volume for Capomulin treatment is 0.84, which shows a strong correlation. As the tumor volume increases, the weight of the mice also increases. 
